@@ -8,7 +8,7 @@ def Subnetting():
 
         print(separator)
         print("Tool Name: Automated Subnetting Tool".center(terminal_width))
-        print("Version: 1.0".center(terminal_width))
+        print("Version: Beta".center(terminal_width))
         print("Coded by: Reymond Joaquin".center(terminal_width))
         print("Written in: Python".center(terminal_width))
         print(separator)
