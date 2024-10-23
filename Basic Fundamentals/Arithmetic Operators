@@ -1,0 +1,24 @@
+#Arithmetuc Operators
+
+#Substraction: x - y          Result: Difference
+#Addition: x + y              Result: Sum
+#Multiplication: x * y        Result: Product   
+#Division: x / y              Result: Quotient
+#Modulus: x % y               Result: Remainder
+#Floor Division: x // y       Result: Quotient(Rounded Off)
+#Exponent: x ** y             Result: Power
+
+#Simple Calculator
+
+q1 = input(str("Type 1st Number "))
+operator = input(("Pick Operators: +, -, * "))  
+q2 = input(str("Type 2nd Number "))
+
+if operator == "+":
+    print(int(q1) + int(q2))
+elif operator == "-":
+    print(int(q1) - int(q2))
+elif operator == "*":
+    print(int(q1) * int(q2)) 
+else:
+    print("It's not an operator :(")
