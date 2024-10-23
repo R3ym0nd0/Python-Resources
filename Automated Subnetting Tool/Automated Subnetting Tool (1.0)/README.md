@@ -1,5 +1,5 @@
 # Automated Subnetting Tool
-- ### The Automated Subnetting Tool simplifies the process of subnetting, making it easier to calculate subnets for IP addresses. This tool is designed for network engineers and students who want to streamline their subnetting tasks.
+### The Automated Subnetting Tool simplifies the process of subnetting, making it easier to calculate subnets for IP addresses. This tool is designed for network engineers and students who want to streamline their subnetting tasks.
 
 ## Features
 - **Fixed-Length Subnet Masking**: All subnets are of equal size, meaning each subnet has the same number of hosts. This method is simple and easy to manage but may lead to IP address wastage.
