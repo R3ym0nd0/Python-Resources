@@ -30,7 +30,7 @@ def Subnetting():
         separator = "=" * terminal_width
 
         print(separator)
-        print("Welcome to Automated Subnetting Tool (Version 1.0)\n".center(terminal_width))
+        print("Welcome to Automated Subnetting Tool (Version Beta)\n".center(terminal_width))
         print("--> DESCRIPTION <--\n".center(terminal_width))
         print("- This tool provides functionalities for subnetting, including Fixed-Length Subnet Masking (FLSM), Variable-Length Subnet Masking (VLSM), Supernetting, and IP Address/Numbers to Binary Translator.\n".center(terminal_width))
         print(separator)
