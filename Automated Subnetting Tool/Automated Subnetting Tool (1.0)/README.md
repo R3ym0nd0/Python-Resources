@@ -9,3 +9,4 @@
 
 ## Snapshot
 ![Image](https://github.com/user-attachments/assets/dbdcc9ed-b931-47c6-8d8a-07416be6ada2)
+*Note: Sorry for the boring design; I'm still working on this! Your feedback is welcome as I continue to improve the tool.*
