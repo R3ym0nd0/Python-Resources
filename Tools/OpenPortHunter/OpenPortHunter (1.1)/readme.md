@@ -9,7 +9,7 @@ OpenPortHunter is a Python-based tool for scanning ports on a specified target I
 ### Domain Information
 ![Capture2](https://github.com/user-attachments/assets/a140bfe0-5f0e-4525-b60d-59a7fc03056b)
 **Note:**
-- The `Domain Information` may not always be `None`. It can contain useful data depending on the target.
+- The `Domain Information` may not always be `None`. It can contain useful information depending on the target.
 ### Port Scanning Choices
 ![Capture3](https://github.com/user-attachments/assets/7dce908d-04a5-4a15-9fb4-b043080674f7)
 
