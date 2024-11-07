@@ -8,7 +8,7 @@ OpenPortHunter is a Python-based tool for scanning ports on a specified target I
 - Displays common protocols associated with open ports.
 - User-friendly terminal interface.
 
-## Updates
+## What's New
 - Enhanced code documentation by adding comments for improved clarity.
   
 # Snapshot
