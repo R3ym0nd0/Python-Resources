@@ -1,5 +1,5 @@
 # IPnetSolver Version 1.1
-### IPnetSolver is a command-line tool designed to simplify subnetting tasks and enhance networking efficiency. Originally named "Automated Subnetting Tool," IPnetSolver provides an intuitive way to calculate subnets, understand IP ranges, convert IP addresses and whole numbers into binary, and divide networks, making it a valuable resource for students, network engineers, and penetration testers.
+IPnetSolver is a command-line tool designed to simplify subnetting tasks and enhance networking efficiency. Originally named "Automated Subnetting Tool," IPnetSolver provides an intuitive way to calculate subnets, understand IP ranges, convert IP addresses and whole numbers into binary, and divide networks, making it a valuable resource for students, network engineers, and penetration testers.
 
 ## Features
 - **Fixed-Length Subnet Masking**: All subnets are of equal size, meaning each subnet has the same number of hosts. This method is simple and easy to manage but may lead to IP address wastage.
