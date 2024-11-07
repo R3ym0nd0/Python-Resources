@@ -1,4 +1,4 @@
-# OpenPortHunter 1.1
+# OpenPortHunter Version 1.1
 
 OpenPortHunter is a Python-based tool for scanning ports on a specified target IP address or domain name. It allows users to check for open and closed ports, gather WHOIS information, and understand the common protocols associated with each port.
 
