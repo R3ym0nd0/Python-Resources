@@ -24,4 +24,4 @@ OpenPortHunter is a Python-based tool for scanning ports on a specified target I
 
 ## ⚠️ Important Notice ⚠️
 
-The OpenPorHunter Tool is for **educational purposes security and authorized assessment only**. **Unauthorized use** of this tool **may violate local laws and regulation**. Please ensure you have permission before conducting any testing.
+The OpenPorHunter Tool is for **educational purposes and authorized security assessment only**. **Unauthorized use** of this tool **may violate local laws and regulation**. Please ensure you have permission before conducting any testing.
