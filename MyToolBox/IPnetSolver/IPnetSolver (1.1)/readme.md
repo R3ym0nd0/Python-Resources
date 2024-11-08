@@ -17,7 +17,7 @@ IPnetSolver is a command-line tool designed to simplify subnetting tasks and enh
 # Snapshot
 ![IPnetSolverStart](https://github.com/user-attachments/assets/cb00b037-0194-45bd-9ac0-3093725b1178)
 
-# 1. FLSM Feature
+# 1. Fixed-Length Subnet Masking
 ![FLSM](https://github.com/user-attachments/assets/93965e01-52a2-4a21-9da2-cc3f8e40e885)
 
 ## - FLSM Binary Conversion(Optional)
@@ -26,8 +26,29 @@ IPnetSolver is a command-line tool designed to simplify subnetting tasks and enh
 ## - FLSM Subnetting a Subnet(Optional)
 ![SubnettingSubnet](https://github.com/user-attachments/assets/f613d98d-6ac6-4a3b-bb09-8ec0714d5898)
 
-# 2. VLSM Feature
+# 2. Variable-Length Subnet Masking
 ![VLSM](https://github.com/user-attachments/assets/d387a71d-a24e-4ebc-bf9c-c9c6c4d79e2c)
+
+## - VLSM Binary Conversion(Optional)
+![VLSM_Bin](https://github.com/user-attachments/assets/fd0a5dd4-3e28-455c-af7e-36f62cba3fd2)
+
+# 3. Supernetting
+![Supernet](https://github.com/user-attachments/assets/35a0b3d9-0ef5-42c9-89c5-43168c7b0d05)
+
+# 4. IP Addresses/Whole Numbers to Binary Converter
+![binary](https://github.com/user-attachments/assets/ea6410e9-ec36-4c79-b379-941191152cf7)
+
+## - IP Addresses(Option)
+![sd](https://github.com/user-attachments/assets/657f40e9-32c4-4b34-bc61-7017795ec679)
+
+## - Whole Numbers(Option)
+![IP](https://github.com/user-attachments/assets/da06495d-b04c-430e-9666-09100a3e50ef)
+
+
+
+
+
+
 
 
 
