@@ -38,11 +38,12 @@ IPnetSolver is a command-line tool designed to simplify subnetting tasks and enh
 # 4. IP Addresses/Whole Numbers to Binary Converter
 ![binary](https://github.com/user-attachments/assets/ea6410e9-ec36-4c79-b379-941191152cf7)
 
-## - IP Addresses(Option)
+## - IP Addresses to Binary Converter(Option)
 ![sd](https://github.com/user-attachments/assets/657f40e9-32c4-4b34-bc61-7017795ec679)
 
-## - Whole Numbers(Option)
-![IP](https://github.com/user-attachments/assets/da06495d-b04c-430e-9666-09100a3e50ef)
+## - Whole Numbers to Binary Converter(Option)
+![a](https://github.com/user-attachments/assets/45339906-2be3-4725-9aa4-fc7180184ba1)
+
 
 
 
