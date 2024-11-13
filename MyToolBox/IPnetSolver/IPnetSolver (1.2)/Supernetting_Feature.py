@@ -33,7 +33,7 @@ def Supernetting() -> None:
                         return list_CIDR_notation
                 else:
                     # Blocks of CIDR Notation
-                    cidr = IP.ip_network(user) # Tbis will translate the user input into ip network object, if it detects that user type ip network
+                    cidr = IP.ip_network(user) # This will translate the user input into ip network object, if it detects that user type ip network
                     for i in list_CIDR_notation:
                         if i == cidr: # This will check if i variable is equal to cidr to fix the repeated CIDR Notation
                             separator()
