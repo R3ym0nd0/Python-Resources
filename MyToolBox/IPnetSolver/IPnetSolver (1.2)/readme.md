@@ -15,34 +15,34 @@ IPnetSolver is a command-line tool designed to simplify subnetting tasks and enh
 - **Minor Tweaks to Features**: Made small adjustments to features, improving the accuracy of the usable IP range results.
 
 # Snapshot
-![IPnetSolverStart](https://github.com/user-attachments/assets/cb00b037-0194-45bd-9ac0-3093725b1178)
+![main_menu](https://github.com/user-attachments/assets/ebcfadd5-cc5a-4377-9855-c858eaca0333)
 
 # 1. Fixed-Length Subnet Masking
-![FLSM](https://github.com/user-attachments/assets/93965e01-52a2-4a21-9da2-cc3f8e40e885)
+![FLSM_Feature](https://github.com/user-attachments/assets/b6fb431b-97da-45b5-b5a3-32255fa7fbd8)
 
 ## - FLSM Binary Conversion(Optional)
-![image](https://github.com/user-attachments/assets/281a566f-cf75-4fa6-8525-abb6ae099fff)
+![FLSM_Binary](https://github.com/user-attachments/assets/745edf17-2a71-49da-a2fd-e370ab80eca3)
 
 ## - FLSM Subnetting a Subnet(Optional)
-![SubnettingSubnet](https://github.com/user-attachments/assets/f613d98d-6ac6-4a3b-bb09-8ec0714d5898)
+![Subnetting_subnet](https://github.com/user-attachments/assets/33d0266f-037a-4785-81ca-d9990864e7a1)
 
 # 2. Variable-Length Subnet Masking
-![VLSM](https://github.com/user-attachments/assets/d387a71d-a24e-4ebc-bf9c-c9c6c4d79e2c)
+![VLSM_Feature](https://github.com/user-attachments/assets/edbde17f-7df1-42e0-9d24-2a0ca0661280)
 
 ## - VLSM Binary Conversion(Optional)
-![VLSM_Bin](https://github.com/user-attachments/assets/fd0a5dd4-3e28-455c-af7e-36f62cba3fd2)
+![VLSM_Binary](https://github.com/user-attachments/assets/f1a625a1-45bf-40dc-a625-946a88a4cc1d)
 
 # 3. Supernetting
-![Supernet](https://github.com/user-attachments/assets/35a0b3d9-0ef5-42c9-89c5-43168c7b0d05)
+![Supernetting_Feature](https://github.com/user-attachments/assets/0af43958-f7ac-4738-8c65-7d38f9e7757f)
 
 # 4. IP Addresses/Whole Numbers to Binary Converter
-![binary](https://github.com/user-attachments/assets/ea6410e9-ec36-4c79-b379-941191152cf7)
+![IP and WholeNum_Binary](https://github.com/user-attachments/assets/3754c061-40e9-4a00-a51d-73b387860a09)
 
 ## - IP Addresses to Binary Converter(Option)
-![sd](https://github.com/user-attachments/assets/657f40e9-32c4-4b34-bc61-7017795ec679)
+![image](https://github.com/user-attachments/assets/f63f7456-9cc9-412d-93d5-58998538ec73)
 
 ## - Whole Numbers to Binary Converter(Option)
-![a](https://github.com/user-attachments/assets/45339906-2be3-4725-9aa4-fc7180184ba1)
+![IP_Binary](https://github.com/user-attachments/assets/dd82a174-49af-403b-9947-57963473dcae)
 
 
 
