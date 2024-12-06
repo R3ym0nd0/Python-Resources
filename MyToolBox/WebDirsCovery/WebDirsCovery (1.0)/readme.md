@@ -5,8 +5,8 @@
 ## Features 🔥🚀
 
 - **Automated Directory Scan**: Automatically scans a website for common directories.
-- **Custom Directory Scan**: Allows users to input a custom list of directories to scan.
-- **Manual Directory Scan**: Allows users to specify a single directory to scan.
+- **Custom Directory Scan**: Allows users to use her own file that have list of directories to scan.
+- **Manual Directory Scan**: Allows users to enter single/list of directories to scan.
 
 ## Installation 📂 
 
