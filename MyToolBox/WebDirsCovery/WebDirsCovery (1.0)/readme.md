@@ -1,4 +1,4 @@
-# WebDirsCovery 📂👁️
+# WebDirsCovery (1.0) 📂👁️
 
 **WebDirsCovery** is a tool designed to discover hidden directories on websites by performing automated and manual scans. It aims to assist security professionals and ethical hackers in finding potential attack vectors, web directories, and vulnerabilities.
 
