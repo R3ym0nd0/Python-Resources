@@ -17,7 +17,7 @@ OpenPortHunter is a Python-based tool for scanning ports on a specified target I
    cd Python-Resources/MyToolBox/OpenPortHunter/OpenPortHunter (1.2)
 
 ## What's New ✨
-- **Hints Added:** Helpful guidance for easier tool usage.
+- **Type Hints Added:** Integrated Python type hints for better code readability and easier maintenance.
 - **Improved Visuals:** Fixed the plain white-and-black color scheme by integrating colorama for vibrant, color-coded text.
   
 ## Snapshot 📷
