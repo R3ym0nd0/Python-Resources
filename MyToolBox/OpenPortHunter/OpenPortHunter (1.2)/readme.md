@@ -25,7 +25,7 @@ OpenPortHunter is a Python-based tool for scanning ports on a specified target I
 ### Entering Target 🎯
 ![Intro](https://github.com/user-attachments/assets/982dcfce-df97-47c5-bfa7-160411b503d1)
 
-### Domain Information
+### Domain Information 🧐
 ![target_info](https://github.com/user-attachments/assets/359a1a94-205e-4559-8620-d62bc8bbd30f)
 
 ### Specific Ports (Scan Only Specific Ports) 🔍
