@@ -3,7 +3,7 @@
 
 **IPnetSolver** is a command-line tool that automates **FLSM**, **VLSM**, **Supernetting**, and **IP/Decimal-to-Binary conversion**.
 It’s also useful for learning subnetting and supernetting, or converting IP addresses and numbers to binary.
-This tool helps sysadmins, network engineers, and ethical hackers save time and avoid manual errors.
+This tool helps sysadmins, network engineers, students and ethical hackers save time and avoid manual errors.
 
 ---
 
