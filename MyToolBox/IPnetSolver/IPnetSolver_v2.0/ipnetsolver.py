@@ -26,7 +26,7 @@ def Subnetting():
         {Fore.LIGHTMAGENTA_EX}- IP Calculations Made Easy, and Can Be Your Buddy!""")
         separator()
         print(f"{Fore.RED}Tool Name   {Fore.WHITE}: {Fore.LIGHTGREEN_EX}IPnetSolver")
-        print(f"{Fore.RED}Version     {Fore.WHITE}: {Fore.LIGHTGREEN_EX}1.3")
+        print(f"{Fore.RED}Version     {Fore.WHITE}: {Fore.LIGHTGREEN_EX}2.0")
         print(f"{Fore.RED}Coded by    {Fore.WHITE}: {Fore.LIGHTGREEN_EX}Reymond Joaquin")
         print(f"{Fore.RED}Description {Fore.WHITE}: {Fore.LIGHTGREEN_EX}It simplifies subnetting with FLSM, VLSM, Supernetting, and IP-to-binary conversion")
         print(f"{Fore.RED}Purpose     {Fore.WHITE}: {Fore.LIGHTGREEN_EX}This tool helps network engineers and students learn and assist with networking calculations")
@@ -37,7 +37,7 @@ def Subnetting():
     def guide() -> None: 
         while True:
             separator()
-            print(f"{Fore.MAGENTA}[*] {Fore.LIGHTCYAN_EX}Welcome to IPnetSolver v1.3 Network Calculation Guide {Fore.MAGENTA}[*]\n")
+            print(f"{Fore.MAGENTA}[*] {Fore.LIGHTCYAN_EX}Welcome to IPnetSolver v2.0 Calculation Guide {Fore.MAGENTA}[*]\n")
             print(f"""{Fore.YELLOW}[*] {Fore.RED}NOTE {Fore.YELLOW}[*]
                     
     {Fore.WHITE}Before using this guide, make sure you understand {Fore.LIGHTGREEN_EX}IP addresses{Fore.WHITE},
