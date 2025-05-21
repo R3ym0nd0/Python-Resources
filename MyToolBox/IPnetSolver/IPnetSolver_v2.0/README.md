@@ -54,6 +54,6 @@ This tool helps sysadmins, network engineers, students and ethical hackers save 
 ## 🔧 How to Run
 
 ```bash
-git clone https://github.com/R3ym0nd0E/Python-Resources.git
+git clone https://github.com/R3ym0nd0/Python-Resources.git
 cd Python-Resources/MyToolBox/IPnetSolver/IPnetSolver_v2.0
 python3 ipnetsolver.py
