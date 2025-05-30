@@ -1,7 +1,7 @@
 import socket
 import ipaddress as IP
 import os
-import whois
+import whois as whois_lib
 
 from colorama import Fore, init
 
@@ -119,20 +119,20 @@ def Port_Scanner() -> None:
     def whois_info(user: str, ip: str) -> None:
         try:
             terminal_width: int = os.get_terminal_size().columns
-            domain_info: str = whois.whois(user) # to access .domain_name, .whois_server, .registrar, .expiration_date, etc.
+            data = whois_lib.whois(user) # to access .domain_name, .whois_server, .registrar, .expiration_date, etc.
 
             # Print some of the retrieved
             separator()
             print(f"{Fore.YELLOW + "!!"} {Fore.LIGHTGREEN_EX + f"Domain Information for {user}"} {Fore.YELLOW + "!!"}".center(terminal_width))
             separator()
-            print_info("Domain Name", domain_info.domain_name)
+            print_info("Domain Name", data.domain_name)
             print(f"{Fore.LIGHTGREEN_EX + "IP Address:"}\n\n{Fore.LIGHTMAGENTA_EX + f"1.{ip}"}\n")
-            print_info("Registrar", domain_info.registrar)
-            print_info("Whois Server", domain_info.whois_server)
-            print_info("Creation Date", domain_info.creation_date)
-            print_info("Expiration Date", domain_info.expiration_date)
-            print_info("Name Servers", domain_info.name_servers)
-            print_info("Status", domain_info.status)
+            print_info("Registrar", data.registrar)
+            print_info("Whois Server", data.whois_server)
+            print_info("Creation Date", data.creation_date)
+            print_info("Expiration Date", data.expiration_date)
+            print_info("Name Servers", data.name_servers)
+            print_info("Status", data.status)
 
         except ConnectionResetError:
             separator()
